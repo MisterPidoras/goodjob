@@ -5,8 +5,7 @@ from aiogram.filters import Command, ChatMemberUpdatedFilter, JOIN_TRANSITION, C
 from aiogram.types import ContentType, Message, ChatMemberUpdated
 from aiogram.client.default import DefaultBotProperties
 
-TOKEN = "7559726988:AAF4wFM9keaAsVkzAmpvIjKagV9lLfu6P5E"
-ADMIN_IDS = [728594122, 7898080464]  # Список ID администраторов
+TOKEN = "7559726988:AAдминистраторов
 
 bot = Bot(
     token=TOKEN,
